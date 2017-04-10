@@ -1,24 +1,3 @@
-# README
+# FOOD FINDER APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is an app completed as part of my academic work at the Wyncode Ruby on Rails bootcamp. It allows the user to find nearby restaurants either via geolocation or by entering their zip code. It uses the Google places API. \
